@@ -1,6 +1,4 @@
-
-
-////////////// Scott Meyers
+// Scott Meyers
 
 class Singleton{
 	public:
