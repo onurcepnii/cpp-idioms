@@ -16,6 +16,6 @@ class Singleton{
 
 int main()
 {
-	Singleton::get_instance()->foo();
+	Singleton::get_instance().foo();
 	
 }
